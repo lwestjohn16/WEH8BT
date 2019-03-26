@@ -1,0 +1,1 @@
+This project was done using an STM32 NUCLEO-F401RE and an Arduino.
